@@ -1,0 +1,6 @@
+#questions for practice 
+#1) wap for sorting and reverse sorting a list,tuple.
+#2) wap for sorting dictionary based on (a)keys (b) values.
+#3) wap to remove duplicate element in a list.
+#4) wap to count frequency of each element occuring in list.
+#5) wap to reverse input statment. eg- i/p - 'This is example' && o/p - 'example is This'.
